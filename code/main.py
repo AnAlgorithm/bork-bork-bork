@@ -5,7 +5,7 @@ dictionary_new = ["sine","ing","imege","seerch","shoeppeeing","prefferences","yu
 
 # ---
 # --- Reading text
-file = open("demofile.txt","rt")
+file = open("demofile.txt","rt") # Replace demofile with your file
 text = file.read()
 file.close()
 
@@ -18,7 +18,7 @@ for i in len(dictionary_names):
   
 # ---
 # --- Overwriting file text with new one
-file0 = open("demofile.txt","wt")
+file0 = open("demofile.txt","wt") # Replace demofile with your file
 file0.write(text)
 file0.close()
 
