@@ -8,23 +8,16 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 * Change the name of the file from ```demofile.txt``` to the file name you want.
 * Run the program.
 
+Clone :
+``` bash
+gh repo clone AnAlgorithm/bork-bork-bork
+```
+
 ## How was this made?
 
 This Easter egg can be viewed in Google. Go to Settings icon > Languages and select Bork, bork, bork!
-The translation dictionary, visible at ```code/dictionary.py``` is a reference:
+The translation dictionary, visible at ```code/dictionary.py``` is a reference.
 
-``` python
-dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced"]
-```
-
-It was coded this way:
-``` python
-for i in len(dictionary_names):
-  text = re.sub(dictionary_names[i],dictionary_new[i],text)
-  i = i + 1
-  ```
-  
 ## Credits
 
 * Credit to Google for the bork bork easter egg.
