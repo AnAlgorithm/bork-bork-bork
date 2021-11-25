@@ -21,3 +21,5 @@ for i in len(dictionary_names):
 file0 = open("demofile.txt","wt")
 file0.write(text)
 file0.close()
+
+# ---
