@@ -18,7 +18,7 @@ dictionary_names = ["sign","in","image","search","shopping","preferences","your"
 dictionary_new = ["sine","ing","imege","seerch","shoeppeeing","prefferences","yuoor","beee","sefe","hefe-a","google-a"]
 ```
 
-And coded this way:
+It was coded this way:
 ``` python
 for i in len(dictionary_names):
   text = re.sub(dictionary_names[i],dictionary_new[i],text)
