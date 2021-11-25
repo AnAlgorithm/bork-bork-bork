@@ -8,11 +8,6 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 * Change the name of the file from ```demofile.txt``` to the file name you want.
 * Run the program.
 
-### Clone 
-``` bash
-gh repo clone AnAlgorithm/bork-bork-bork
-```
-
 ## How was this made?
 
 This Easter egg can be viewed in Google. Go to Settings icon > Languages and select Bork, bork, bork!
