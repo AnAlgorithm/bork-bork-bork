@@ -10,8 +10,8 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 
 ## How was this made?
 
-This Easter egg can be viewed in Google. Go to Settings icon > Languages and select Bork, bork, bork!
-The translation dictionary, visible at ```code/dictionary.py``` is a reference.
+* This Easter egg can be viewed in Google. Go to Settings icon > Languages and select Bork, bork, bork!
+* The translation dictionary, visible at ```code/dictionary.py``` is a reference.
 
 ## Credits
 
