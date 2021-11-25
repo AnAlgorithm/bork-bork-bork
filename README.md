@@ -11,9 +11,16 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 ## How was this made?
 
 This Easter egg can be viewed in Google. Go to Settings icon > Languages and select Bork, bork, bork!
-The replacement dictionary, visible at ```code/dictionary.py``` is a reference.
+The translation dictionary, visible at ```code/dictionary.py``` is a reference:
 
 ``` python
 dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google"]
 dictionary_new = ["sine","ing","imege","seerch","shoeppeeing","prefferences","yuoor","beee","sefe","hefe-a","google-a"]
 ```
+
+And coded this way:
+``` python
+for i in len(dictionary_names):
+  text = re.sub(dictionary_names[i],dictionary_new[i],text)
+  i = i + 1
+  ```
