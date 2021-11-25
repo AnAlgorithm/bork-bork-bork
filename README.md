@@ -14,8 +14,8 @@ This Easter egg can be viewed in Google. Go to Settings icon > Languages and sel
 The translation dictionary, visible at ```code/dictionary.py``` is a reference:
 
 ``` python
-dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a"]
+dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced"]
+dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfenced"]
 ```
 
 It was coded this way:
