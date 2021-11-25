@@ -1,5 +1,5 @@
-dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced","i'm","feeling","lucky","about"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced","ee'm","feeleeng","loocky","ebuoot"]
+dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced","i'm","feeling","lucky","about","more","info"]
+dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced","ee'm","feeleeng","loocky","ebuoot","mure-a","inffu"]
 
 # sign - sine
 # in - ing
@@ -17,3 +17,5 @@ dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuo
 # feeling - feeleeng
 # lucky - loocky
 # about - ebuoot
+# more - mure-a
+# info - inffu
