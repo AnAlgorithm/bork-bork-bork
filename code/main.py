@@ -1,2 +1,2 @@
 file = open("demofile.txt","rt")
-o_text = file.read()
+text = file.read()
