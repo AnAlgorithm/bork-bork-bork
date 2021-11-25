@@ -1,7 +1,7 @@
 # --- Init
 import re
-dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a"]
+dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced"]
+dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfenced"]
 
 # ---
 # --- Reading text
