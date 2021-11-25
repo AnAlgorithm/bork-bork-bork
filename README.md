@@ -24,3 +24,8 @@ for i in len(dictionary_names):
   text = re.sub(dictionary_names[i],dictionary_new[i],text)
   i = i + 1
   ```
+  
+## Credits
+
+* Credit to Google for the bork bork easter egg.
+* Credit to snappify.io for the Thumbnail.
