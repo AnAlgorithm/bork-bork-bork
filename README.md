@@ -15,7 +15,7 @@ The translation dictionary, visible at ```code/dictionary.py``` is a reference:
 
 ``` python
 dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfenced"]
+dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced"]
 ```
 
 It was coded this way:
