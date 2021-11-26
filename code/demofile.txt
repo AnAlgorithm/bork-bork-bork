@@ -1,3 +1,6 @@
-Hello world!
-Your preferences have been saved.
-Google search? I like shopping.
+Hello world
+Save your preferences
+Google search 
+I like shopping
+More info
+Stuff...
