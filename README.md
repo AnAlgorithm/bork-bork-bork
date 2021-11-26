@@ -15,7 +15,7 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 
 ``` python
 original_text = "Your preferences have been saved"
-translated_text = "Yuoor prefferences hefe-a bee sefed"
+translated_text = "Yuoor prefferences hefe-a beee sefed"
 ```
 
 ## Credits
