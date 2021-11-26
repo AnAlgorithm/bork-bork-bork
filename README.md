@@ -14,8 +14,8 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 * The translation dictionary, visible at ```code/dictionary.py``` is a reference. Here's an example:
 
 ``` python
-original_text = "Your preferences have been saved"
-translated_text = "Yuoor prefferences hefe-a beee sefed"
+original-text = "Your preferences have been saved"
+translated-text = "Yuoor prefferences hefe-a beee sefed"
 ```
 
 ## Credits
