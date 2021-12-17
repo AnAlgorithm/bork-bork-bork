@@ -6,4 +6,4 @@ Did you know there's a thunderstorm coming?
 I like shopping and image
 I'm feeling lucky about more info
 
---- Sorry for bad grammar the program can only understand the words
+--- Sorry for bad grammar, the program can only understand the words.
