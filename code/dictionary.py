@@ -1,5 +1,5 @@
-dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced","i'm","feeling","lucky","about","more","info","shower","mostly","cloudy","sunny","little","snow","thunderstorm"]
-dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced","ee'm","feeleeng","loocky","ebuoot","mure-a","inffu","showeryguben","moostlee","cloodee","sonnee","leetl-a","snoo","doonderstoorm"]
+dictionary_names = ["sign","in","image","search","shopping","preferences","your","been","save","have","google","advanced","i'm","feeling","lucky","about","more","info","shower","mostly","cloudy","sunny","little","snow","thunderstorm","rain"]
+dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuoor","beee","sefe","hefe-a","google-a","edfunced","ee'm","feeleeng","loocky","ebuoot","mure-a","inffu","showeryguben","moostlee","cloodee","soonee","leetl-a","snoo","doonderstoorm","reen"]
 
 # sign - sine
 # in - ing
