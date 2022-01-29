@@ -4,7 +4,7 @@ A hilarious program that translates text in a file to Google's "bork bork bork' 
 
 ## How to use
 
-* Download the main.py file.
+* Download the code folder.
 * Change the name of the file from ```demofile.txt``` to the file name you want.
 * Run the program.
 
