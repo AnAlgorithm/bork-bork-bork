@@ -22,7 +22,7 @@ dictionary_new = ["sine","ing","imege","seerch","shoeppeeng","prefferences","yuo
 # more - mure-a
 # info - inffu
 # shower - showeryguben
-# mostly - mostly
+# mostly - moostlee
 # cloudy - cloodee
 # sunny - sonnee
 # little - leetl-a
